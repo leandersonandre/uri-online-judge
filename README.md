@@ -6,3 +6,4 @@ Repositório para as soluções dos problemas disponíveis no [URI Online Judge]
 
 Assista os [vídeos no Youtube](https://www.youtube.com/channel/UCT4DvbH5aVFvboboquyndhg?view_as=subscriber) com o desenvolvimento das soluções com a linguagem Java.
 
+Email de contato: leanderson.andre@gmail.com
